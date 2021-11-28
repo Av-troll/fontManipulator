@@ -1,0 +1,19 @@
+.copyright-footer{
+    bottom: 0;
+    color: white;
+    background-color: black;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+    box-shadow: 5px 5px white;
+    text-align: center;
+}
+
+.thingy{
+    background:cornflowerblue;
+}
+canvas{
+    border:5px solid #EEEE;
+    box-shadow: 5px 5px 40px grey;
+    border-radius: 10%;
+}
